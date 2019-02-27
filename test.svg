@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#616161;}
+	.st1{fill:none;stroke:#E0E0E0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#FFA726;}
+	.st3{fill:#0097A7;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M1079.8,572.6H356.6c-23.4,0-42.5-19.1-42.5-42.5V136.2c0-23.4,19.1-42.5,42.5-42.5h723.2
+				c23.4,0,42.5,19.1,42.5,42.5v393.9C1122.3,553.5,1103.3,572.6,1079.8,572.6z M356.6,120.2c-8.8,0-16,7.2-16,16v393.9
+				c0,8.8,7.2,16,16,16h723.2c8.8,0,16-7.2,16-16V136.2c0-8.8-7.2-16-16-16H356.6z"/>
+		</g>
+		<g>
+			<path class="st0" d="M1155.5,628.3H281c-1.4,0-2.5-1.1-2.5-2.5v-29.2c0-1.4,1.1-2.5,2.5-2.5h874.5c1.4,0,2.5,1.1,2.5,2.5v29.2
+				C1158,627.2,1156.9,628.3,1155.5,628.3z"/>
+		</g>
+		<g>
+			<path class="st0" d="M1128.6,642.2H307.9c-1.1,0-2.1-0.9-2.1-2.1v-18.9c0-1.1,0.9-2.1,2.1-2.1h820.7c1.1,0,2.1,0.9,2.1,2.1v18.9
+				C1130.6,641.2,1129.7,642.2,1128.6,642.2z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="412.7" y="177.6" class="st1" width="611" height="311"/>
+			<line class="st1" x1="1023.7" y1="229.5" x2="412.7" y2="229.5"/>
+			<line class="st1" x1="1023.7" y1="281.3" x2="412.7" y2="281.3"/>
+			<line class="st1" x1="1023.7" y1="333.1" x2="412.7" y2="333.1"/>
+			<line class="st1" x1="1023.7" y1="385" x2="412.7" y2="385"/>
+			<line class="st1" x1="1023.7" y1="436.8" x2="412.7" y2="436.8"/>
+		</g>
+		<g>
+			
+				<rect x="964.5" y="282.5" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1957.1167 770.7249)" class="st0" width="28.1" height="205.7"/>
+			
+				<rect x="912.3" y="257.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1852.6105 745.4588)" class="st2" width="28.1" height="231"/>
+			
+				<rect x="860" y="212.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1748.1033 700.4572)" class="st3" width="28.1" height="276"/>
+			
+				<rect x="807.8" y="326" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1643.597 814.2252)" class="st0" width="28.1" height="162.2"/>
+			
+				<rect x="755.5" y="257.8" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1539.0908 746.0386)" class="st2" width="28.1" height="230.4"/>
+			
+				<rect x="703.2" y="302.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1434.5846 790.441)" class="st0" width="28.1" height="186"/>
+			
+				<rect x="651" y="212.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1330.0773 700.4572)" class="st3" width="28.1" height="276"/>
+			
+				<rect x="598.7" y="273.9" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1225.5712 762.1337)" class="st2" width="28.1" height="214.3"/>
+			
+				<rect x="546.5" y="302.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1121.0648 790.441)" class="st0" width="28.1" height="186"/>
+			
+				<rect x="494.2" y="257.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1016.5587 745.4588)" class="st3" width="28.1" height="231"/>
+			
+				<rect x="442" y="257.8" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 912.0514 746.0386)" class="st2" width="28.1" height="230.4"/>
+		</g>
+	</g>
+</g>
+</svg>
